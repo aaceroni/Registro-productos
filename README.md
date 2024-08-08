@@ -1,4 +1,4 @@
-# React + Vite
+# React + Vite + Bootstrap
 
 App JavaScript | 
 Registro (entrada, salida y edición) de productos en inventario |
